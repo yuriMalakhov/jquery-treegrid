@@ -1,11 +1,11 @@
 {
-  "name": "maxazan/jquery-treegrid",
+  "name": "jquery-treegrid",
   "version": "0.2.1",
   "homepage": "git://github.com/yuriMalakhov/jquery-treegrid.git",
   "location": "git://github.com/yuriMalakhov/jquery-treegrid.git",
   "authors": [
     "Pomazan Max",
-    "Yuri Malakhov <yuri.malakhov@gmail.com>"
+    "Yuri Malakhov <yuri.malakhov87@gmail.com>"
   ],
   "repository": { 
     "type": "git",
@@ -50,5 +50,6 @@
     "treegrid.jquery.json",
     "bower.list.json"
   ],
+  "private": "true",
   "license": "MIT"
 }
