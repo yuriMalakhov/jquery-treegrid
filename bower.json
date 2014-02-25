@@ -1,10 +1,10 @@
 {
   "name": "maxazan/jquery-treegrid",
   "version": "0.2.1",
-  "homepage": "http://maxazan.github.io/jquery-treegrid/",
+  "homepage": "git@github.com:yuriMalakhov/jquery-treegrid.git",
   "authors": [
     "Pomazan Max",
-    "Юрий Малахов <yuri.malakhov@gmail.ru>"
+    "Yuri Malakhov <yuri.malakhov@gmail.ru>"
   ],
   "description": "jQuery plugin for showing a HTML table as tree. Simple and flexible javascript. Compatible with bootstrap. Ability to save the state of the tree. Events support.",
   "main": "js/jquery.treegrid.js",
