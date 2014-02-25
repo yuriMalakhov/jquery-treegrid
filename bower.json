@@ -1,0 +1,55 @@
+{
+  "name": "jquery-treegrid",
+  "version": "0.2.1",
+  "homepage": "git://github.com/yuriMalakhov/jquery-treegrid.git",
+  "location": "git://github.com/yuriMalakhov/jquery-treegrid.git",
+  "authors": [
+    "Pomazan Max",
+    "Yuri Malakhov <yuri.malakhov87@gmail.com>"
+  ],
+  "repository": { 
+    "type": "git",
+    "url": "git://github.com/yuriMalakhov/jquery-treegrid.git" 
+  },
+  "description": "jQuery plugin for showing a HTML table as tree. Simple and flexible javascript. Compatible with bootstrap. Ability to save the state of the tree. Events support.",
+  "main": "js/jquery.treegrid.js",
+  "dependencies": {
+    "jquery": ">=1.10.0",
+    "bootstrap": "~3.1.1",
+    "jquery.cookie": "~1.4.0",
+    "bootstrap2.3.2": "~2.3.2",
+    "qunit": "~1.14.0"
+  },
+  "keywords": [
+    "treegrid",
+    "tree",
+    "grid",
+    "explorer",
+    "file",
+    "table",
+    "tree",
+    "ui"
+  ],
+  "ignore": [
+    "**/.*",
+    "examples",
+    "tests",
+    "node_modules",
+    "bower_components",
+    "libs",
+    ".bower.json",
+    ".gitignore",
+    "bower.json",
+    "Gruntfile.js",
+    "package.json",
+    "params.json",
+    "composer.json",
+    "index.html",
+    "styles.css",
+    "test.html",
+    "treegrid.jquery.json",
+    "bower.list.json"
+  ],
+  "private": true,
+  "license": "MIT"
+}
