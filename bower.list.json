@@ -1,0 +1,20 @@
+{
+  "bootstrap2.3.2": [
+    "bower_components/bootstrap2.3.2/bootstrap/js/bootstrap.js",
+    "bower_components/bootstrap2.3.2/bootstrap/css/bootstrap.css"
+  ],
+  "bootstrap": [
+    "bower_components/bootstrap/dist/css/bootstrap.css",
+    "bower_components/bootstrap/dist/js/bootstrap.js",
+    "bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.eot",
+    "bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.svg",
+    "bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
+    "bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
+  ],
+  "jquery.cookie": "bower_components/jquery.cookie/jquery.cookie.js",
+  "jquery": "bower_components/jquery/jquery.js",
+  "qunit": [
+    "bower_components/qunit/qunit/qunit.js",
+    "bower_components/qunit/qunit/qunit.css"
+  ]
+}
